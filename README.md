@@ -1,2 +1,2 @@
-# ThermoRex
+# ThermoRegis
 OM2M project
